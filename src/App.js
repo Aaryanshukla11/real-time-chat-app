@@ -15,7 +15,6 @@ const AppContainer = styled.div`
   font-family: 'Helvetica Neue', sans-serif;
 `;
 
-
 const ChatContainer = styled.div`
   background-color: #fff;
   width: 400px;
